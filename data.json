@@ -1337,7 +1337,7 @@
       "name": "Pomegranate",
       "brand": "RubyFresh",
       "category": "Fruits",
-      "image": "",
+      "image": "https://github.com/yamankdev/mock-data-hub/blob/main/images/RubuFresh%20Pomegranate.png",
       "description": "Juicy pomegranate seeds full of flavor.",
       "price": 220,
       "discountPrice": 200,
