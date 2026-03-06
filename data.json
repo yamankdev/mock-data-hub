@@ -3244,39 +3244,57 @@
   "categories": [
     {
       "id": "C001",
-      "name": "Rice & Grains"
+      "name": "Rice & Grains",
+      "menuName": "Grains",
+      "icon": ""
     },
     {
       "id": "C002",
-      "name": "Snacks & Confectionery"
+      "name": "Snacks & Confectionery",
+      "menuName": "Snacks",
+      "icon": ""
     },
     {
       "id": "C003",
-      "name": "Personal Care"
+      "name": "Personal Care",
+      "menuName": "Health",
+      "icon": ""
     },
     {
       "id": "C004",
-      "name": "Fruits"
+      "name": "Fruits",
+      "menuName": "Fruits",
+      "icon": ""
     },
     {
       "id": "C005",
-      "name": "Vegetables"
+      "name": "Vegetables",
+      "menuName": "Vegetables",
+      "icon": ""
     },
     {
       "id": "C006",
-      "name": "Bakery"
+      "name": "Bakery",
+      "menuName": "Bakery",
+      "icon": ""
     },
     {
       "id": "C007",
-      "name": "Beverages"
+      "name": "Beverages",
+      "menuName": "Beverages",
+      "icon": ""
     },
     {
       "id": "C008",
-      "name": "Household"
+      "name": "Household",
+      "menuName": "Household",
+      "icon": ""
     },
     {
       "id": "C009",
-      "name": "Cooking Essentials"
+      "name": "Cooking Essentials",
+      "menuName": "Kitchen",
+      "icon": ""
     }
   ],
   "brands": [
