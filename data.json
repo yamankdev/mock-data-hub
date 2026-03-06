@@ -3246,55 +3246,55 @@
       "id": "C001",
       "name": "Rice & Grains",
       "menuName": "Grains",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/grains.png"
     },
     {
       "id": "C002",
       "name": "Snacks & Confectionery",
       "menuName": "Snacks",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/snack.png"
     },
     {
       "id": "C003",
       "name": "Personal Care",
       "menuName": "Health",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/health.png"
     },
     {
       "id": "C004",
       "name": "Fruits",
       "menuName": "Fruits",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/fruits.png"
     },
     {
       "id": "C005",
       "name": "Vegetables",
       "menuName": "Vegetables",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/vegetable.png"
     },
     {
       "id": "C006",
       "name": "Bakery",
       "menuName": "Bakery",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/bakery.png"
     },
     {
       "id": "C007",
       "name": "Beverages",
       "menuName": "Beverages",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/beverages.png"
     },
     {
       "id": "C008",
       "name": "Household",
       "menuName": "Household",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/household.png"
     },
     {
       "id": "C009",
       "name": "Cooking Essentials",
       "menuName": "Kitchen",
-      "icon": ""
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/kitchen.png"
     }
   ],
   "brands": [
@@ -3445,7 +3445,7 @@
     {
       "id": "BN021",
       "title": "Household Essentials for New Year",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JanNewYear%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JanNewYear%20Banner.png",
       "link": "/categories/household",
       "month": "January",
       "theme": "New Year"
@@ -3453,7 +3453,7 @@
     {
       "id": "BN004",
       "title": "Valentine’s Confectionery Specials",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/FebValentine%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/FebValentine%20Banner.png",
       "link": "/categories/snacks-confectionery",
       "month": "February",
       "theme": "Valentine’s"
@@ -3461,7 +3461,7 @@
     {
       "id": "BN013",
       "title": "Spring Fresh Fruits Festival",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/MarSpring%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/MarSpring%20Banner.png",
       "link": "/categories/fruits",
       "month": "March",
       "theme": "Spring"
@@ -3469,7 +3469,7 @@
     {
       "id": "BN014",
       "title": "Summer Cool Beverages",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/AprSummer%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/AprSummer%20Banner.png",
       "link": "/categories/beverages",
       "month": "April",
       "theme": "Summer Kickoff"
@@ -3477,7 +3477,7 @@
     {
       "id": "BN020",
       "title": "Golden Harvest Mango Season",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/MaySummerPeak%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/MaySummerPeak%20Banner.png",
       "link": "/brands/goldenharvest",
       "month": "May",
       "theme": "Summer Peak"
@@ -3485,7 +3485,7 @@
     {
       "id": "BN015",
       "title": "Monsoon Spices & Essentials",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JunMonsoon%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JunMonsoon%20Banner.png",
       "link": "/categories/cooking-essentials",
       "month": "June",
       "theme": "Monsoon"
@@ -3493,7 +3493,7 @@
     {
       "id": "BN009",
       "title": "Tea Time Monsoon Specials",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JulRainySeason%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JulRainySeason%20Banner.png",
       "link": "/categories/beverages",
       "month": "July",
       "theme": "Rainy Season"
@@ -3501,7 +3501,7 @@
     {
       "id": "BN018",
       "title": "Festive Sweets & Confectionery",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/AugFestivalStart%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/AugFestivalStart%20Banner.png",
       "link": "/categories/snacks-confectionery",
       "month": "August",
       "theme": "Festivals Start"
@@ -3509,7 +3509,7 @@
     {
       "id": "BN016",
       "title": "Autumn Bakery Delights",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/SepAutumn%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/SepAutumn%20Banner.png",
       "link": "/categories/bakery",
       "month": "September",
       "theme": "Autumn"
@@ -3517,7 +3517,7 @@
     {
       "id": "BN011",
       "title": "Diwali Cooking Essentials",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/OctDiwaliFall%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/OctDiwaliFall%20Banner.png",
       "link": "/categories/cooking-essentials",
       "month": "October",
       "theme": "Diwali / Fall"
@@ -3525,7 +3525,7 @@
     {
       "id": "BN017",
       "title": "Winter Warmth with HerbalGlow",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/NovWinter%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/NovWinter%20Banner.png",
       "link": "/brands/herbalglow",
       "month": "November",
       "theme": "Winter Begins"
@@ -3533,7 +3533,7 @@
     {
       "id": "BN008",
       "title": "Holiday Bakery & Beverages",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/DecChristmanYearEnd%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/DecChristmanYearEnd%20Banner.png",
       "link": "/categories/bakery-beverages",
       "month": "December",
       "theme": "Christmas / Year End"
@@ -3541,7 +3541,7 @@
     {
       "id": "BN001",
       "title": "Festive Sale",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/OctDiwaliSpecial%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/OctDiwaliSpecial%20Banner.png",
       "link": "/offers/festive-sale",
       "month": "October",
       "theme": "Diwali Specials"
@@ -3549,7 +3549,7 @@
     {
       "id": "BN002",
       "title": "Healthy Living",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JanHealthKick%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JanHealthKick%20Banner.png",
       "link": "/categories/organic",
       "month": "January",
       "theme": "Health Kick"
@@ -3557,7 +3557,7 @@
     {
       "id": "BN003",
       "title": "Premium Basmati Rice Offer",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/MarSpringHarvest%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/MarSpringHarvest%20Banner.png",
       "link": "/categories/rice-grains",
       "month": "March",
       "theme": "Spring Harvest"
@@ -3565,7 +3565,7 @@
     {
       "id": "BN005",
       "title": "Glow with Herbal Care",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/FebSelfCare%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/FebSelfCare%20Banner.png",
       "link": "/categories/personal-care",
       "month": "February",
       "theme": "Self-Care Month"
@@ -3573,7 +3573,7 @@
     {
       "id": "BN006",
       "title": "Fresh Fruits Fiesta",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JulRainySeasonFreshness%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JulRainySeasonFreshness%20Banner.png",
       "link": "/categories/fruits",
       "month": "July",
       "theme": "Rainy Season Freshness"
@@ -3581,7 +3581,7 @@
     {
       "id": "BN007",
       "title": "Healthy Vegetables Week",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/AugFestivalNutrition%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/AugFestivalNutrition%20Banner.png",
       "link": "/categories/vegetables",
       "month": "August",
       "theme": "Festival Nutrition"
@@ -3589,7 +3589,7 @@
     {
       "id": "BN010",
       "title": "Household Essentials Discount",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/SepAutumnEssential%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/SepAutumnEssential%20Banner.png",
       "link": "/categories/household",
       "month": "September",
       "theme": "Autumn Essentials"
@@ -3597,7 +3597,7 @@
     {
       "id": "BN012",
       "title": "Organic Life Specials",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/MaySummerWellness%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/MaySummerWellness%20Banner.png",
       "link": "/brands/organiclife",
       "month": "May",
       "theme": "Summer Wellness"
@@ -3605,7 +3605,7 @@
     {
       "id": "BN019",
       "title": "Healthy Living with OrganicLife",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/JunMonsoonHealth%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/JunMonsoonHealth%20Banner.png",
       "link": "/brands/organiclife",
       "month": "June",
       "theme": "Monsoon Health"
@@ -3613,7 +3613,7 @@
     {
       "id": "BN022",
       "title": "NutriGrain Winter Wellness",
-      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/images/banners/DecWinterWellness%20Banner.png",
+      "image": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/banners/DecWinterWellness%20Banner.png",
       "link": "/brands/nutrigrain",
       "month": "December",
       "theme": "Winter Wellness"
