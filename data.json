@@ -3286,8 +3286,8 @@
     },
     {
       "id": "C008",
-      "name": "Household",
-      "menuName": "Household",
+      "name": "Households",
+      "menuName": "Households",
       "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/household.png"
     },
     {
