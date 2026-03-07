@@ -3252,7 +3252,7 @@
       "id": "C002",
       "name": "Snacks & Confectionery",
       "menuName": "Snacks",
-      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/snack.png"
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/snacks.png"
     },
     {
       "id": "C003",
@@ -3270,7 +3270,7 @@
       "id": "C005",
       "name": "Vegetables",
       "menuName": "Vegetables",
-      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/vegetable.png"
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/vegetables.png"
     },
     {
       "id": "C006",
@@ -3288,7 +3288,7 @@
       "id": "C008",
       "name": "Households",
       "menuName": "Households",
-      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/household.png"
+      "icon": "https://raw.githubusercontent.com/yamankdev/mock-data-hub/main/navMenu/households.png"
     },
     {
       "id": "C009",
